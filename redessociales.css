@@ -1,0 +1,107 @@
+.redessociales{	
+  width: 300px;
+  height: 33px;
+  top: 750px;
+  left: 867px;
+	 position: absolute;
+	 /*border:1px solid #999;*/ 
+	 cursor: pointer;
+} 
+
+
+.redessociales_trajesdebano{	
+  width: 300px;
+  height: 33px;
+  top: 744px;
+  left: 258px;
+	 position: absolute;
+	 /*border:1px solid #999;*/ 
+	 cursor: pointer;
+} 
+
+
+
+.redesfacebook{	
+  background-image: url("imagenes/iconos_sociales7");
+		background-repeat: no-repeat;
+	 background-position:-72px 0px;
+  width: 33px;
+  height: 33px;  
+	 position: relative; 	 
+} 
+.redesfacebook:hover{	
+  background-image: url("imagenes/iconos_sociales7");
+		background-repeat: no-repeat;
+	 background-position: -177px 0px;
+  width: 33px;
+  height: 33px;  
+	 position: relative; 	 
+} 
+
+.redestwitter{	
+  background-image: url("imagenes/iconos_sociales7");
+		background-repeat: no-repeat;
+	 background-position:0px 0px;
+  width: 33px;
+  height: 33px;  
+	 position: relative; 	 
+	 	 top: -33px;
+	 left: 38px;
+	 
+} 
+.redestwitter:hover{	
+  background-image: url("imagenes/iconos_sociales7");
+		background-repeat: no-repeat;
+	 background-position: -105px 0px;
+  width: 33px;
+  height: 33px;  
+	 position: relative; 	 
+	 	 top: -33px;
+	 left: 38px;
+	 
+} 
+
+.redesyoutube{	
+  background-image: url("imagenes/iconos_sociales7");
+		background-repeat: no-repeat;
+	 background-position: 0px -36px;
+  width: 33px;
+  height: 33px;  
+	 position: relative; 	 
+	 	top: -66px;
+	 left: 76px;
+} 
+.redesyoutube:hover{	
+  background-image: url("imagenes/iconos_sociales7");
+		background-repeat: no-repeat;
+	 background-position:-105px -36px;
+  width: 33px;
+  height: 33px;  
+	 position: relative; 	 
+	 	top: -66px;
+	 left: 76px;
+}
+
+
+
+.redesblogger{	
+  background-image: url("imagenes/iconos_sociales7");
+		background-repeat: no-repeat;
+	 background-position: 0px -110px;
+  width: 33px;
+  height: 33px;  
+	 position: relative; 	 
+	 	top: -98px;
+	 left: 113px;
+} 
+.redesblogger:hover{	
+  background-image: url("imagenes/iconos_sociales7");
+		background-repeat: no-repeat;
+	 background-position:-105px -110px;
+  width: 33px;
+  height: 33px;  
+	 position: relative; 	 
+	 	top: -98px;
+	 left: 113px;
+}
+

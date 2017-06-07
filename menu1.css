@@ -1,0 +1,184 @@
+
+.menulirio{	
+  width: 198px;
+  height: 385px;
+	 position: absolute;
+	 top: 330px;
+	 left: 235px;  
+	 cursor: pointer;
+} 
+
+.menulirio_trajesdebano{	
+  width: 198px;
+  height: 385px;
+	 position: absolute;
+	 top: 330px;
+	 left: 230px;
+	 cursor: pointer;
+} 
+
+.menulirio_contacto{	
+  width: 198px;
+  height: 385px;
+	 position: absolute;
+	 top: 330px;
+	 left: 230px;
+	 cursor: pointer;
+} 
+
+.menutrajesdebano{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:0px 0px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 	 
+} 
+.menutrajesdebano:hover{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:-198px 0px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+
+
+.menucovers{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:0px -50px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+.menucovers:hover{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:-198px -50px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+
+
+.menuninas{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:0px -100px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+.menuninas:hover{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:-198px -100px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+
+
+.menuliriodemar{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:0px -150px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+.menuliriodemar:hover{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:-198px -150px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+
+.menudondecomprar{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:0px -200px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+.menudondecomprar:hover{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:-198px -200px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+
+
+.menucontacto{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:0px -250px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+.menucontacto:hover{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:-198px -250px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+
+
+.menushoponline{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:0px -300px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+.menushoponline:hover{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:-198px -300px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+
+
+.menuldm{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:0px -350px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+.menuldm:hover{	
+  background-image: url("imagenes/menu.jpg");
+		background-repeat: no-repeat;
+	 background-position:-198px -350px;
+  width: 198px;
+  height: 50px;  
+	 position: relative; 
+} 
+
+
+
+
+
+
+.botonlogo{	
+  width: 830px;
+  height: 200px;
+	 position: absolute;
+	 top: 100px;
+	 left: 220px;
+	 cursor: pointer;
+		
+} 
